@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">✨ Aspiring backend software engineer with a passion for building robust and scalable systems. Currently pursuing a Bachelor's degree in Computer Engineering, graduating in June 2025<br><br>📹 Outside the world of tech, i used to play handball professionally for 12 years<br><br>📚 I also love reading books on personal development & financial literacy. My favorite one is Atomic Habits in the genre of personal development <br><br>✈️ I love traveling too. I have travelled all around egypt's finest holiday places</h4>
+<h4 align="left">✨ Aspiring backend software engineer with a passion for building robust and scalable systems. Currently pursuing a Bachelor's degree in Computer Engineering, graduating in June 2025<br><br>⚽ Outside the world of tech, i used to play handball professionally for 12 years<br><br>📚 I also love reading books on personal development & financial literacy. My favorite one is Atomic Habits in the genre of personal development <br><br>✈️ I love traveling too. I have travelled all around egypt's finest holiday places</h4>
 
 ###
 
